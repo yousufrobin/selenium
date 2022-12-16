@@ -1,0 +1,7 @@
+BASE_URL = "http://192.0.0.0"
+USER_NAME = "123456789"
+ADD_PASS = "N093012345"
+GB_PASS = "N093012345"
+BRANCH = "00000"
+GB_URL = "https://192.0.0.1"
+year_first_day = "01/01/2022"
